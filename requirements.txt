@@ -1,5 +1,5 @@
 streamlit
-torch==2.0.1
+transformers
+torch
 torchvision
 torchaudio
-transformers==4.36.2
