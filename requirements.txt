@@ -1,5 +1,5 @@
+python==3.10
 streamlit
-transformers==4.36.2
-torch==2.0.1
-torchvision==0.15.0
-torchaudio==2.0.1
+transformers
+torchvision
+torchaudio
