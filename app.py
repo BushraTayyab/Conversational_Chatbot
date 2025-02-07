@@ -1,4 +1,6 @@
+import sys
 import streamlit as st
+st.write("Python version:", sys.version)
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 # Load the pre-trained conversational model (BlenderBot)
